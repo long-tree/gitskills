@@ -1,1 +1,3 @@
 prcatice add
+practice diff
+git commmit
